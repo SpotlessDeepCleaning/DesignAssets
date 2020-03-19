@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="161" viewBox="0 0 70 161">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="61.338" height="55.495" viewBox="0 0 61.338 55.495">
   <defs>
-    <filter id="_" x="0" y="0" width="70" height="161" filterUnits="userSpaceOnUse">
+    <filter id="Path_94" x="0" y="0" width="61.338" height="55.495" filterUnits="userSpaceOnUse">
       <feOffset dy="8" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="4" result="blur"/>
       <feFlood flood-opacity="0.161"/>
@@ -8,7 +8,7 @@
       <feComposite in="SourceGraphic"/>
     </filter>
   </defs>
-  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#_)">
-    <text id="_2" data-name="“" transform="translate(35 109)" fill="#112d4e" font-size="98" font-family="BrandonText-Bold, Brandon Text" font-weight="700" letter-spacing="0.025em"><tspan x="-22.246" y="0">“</tspan></text>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_94)">
+    <path id="Path_94-2" data-name="Path 94" d="M-1.862-45.08c0-3.822-2.156-6.86-6.076-6.86a6.074,6.074,0,0,0-3.332.98,9.872,9.872,0,0,1-.2-1.862c0-4.116,2.254-8.526,4.9-11.956.588-.784.882-1.666.1-2.254l-2.744-1.96a1.342,1.342,0,0,0-2.058.1c-3.528,4.7-7.056,10.878-7.056,19.306,0,7.644,4.018,11.662,8.82,11.662C-5.1-37.926-1.862-40.964-1.862-45.08Zm20.874,0c0-3.822-2.156-6.86-6.076-6.86a6.074,6.074,0,0,0-3.332.98,9.873,9.873,0,0,1-.2-1.862c0-4.116,2.254-8.526,4.9-11.956.588-.784.882-1.666.1-2.254l-2.744-1.96a1.342,1.342,0,0,0-2.058.1c-3.528,4.7-7.056,10.878-7.056,19.306,0,7.644,4.018,11.662,8.82,11.662C15.778-37.926,19.012-40.964,19.012-45.08Z" transform="translate(30.33 73.42)" fill="#112d4e"/>
   </g>
 </svg>
